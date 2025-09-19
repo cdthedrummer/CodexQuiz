@@ -1,0 +1,44 @@
+# OS / tooling
+.DS_Store
+.idea/
+.vscode/
+
+# Build outputs
+build/
+dist/
+out/
+node_modules/
+*/build/
+
+# Secrets
+.env
+.env.*
+local.properties
+*.keystore
+
+# Binaries (block in ChatGPT PR)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.psd
+*.ai
+*.zip
+*.mp3
+*.mp4
+*.mov
+
+# Android specific
+.gradle/
+*.iml
+*.apk
+*.aab
+.externalNativeBuild/
+.cxx/
+captures/
