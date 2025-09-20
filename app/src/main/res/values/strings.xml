@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuestSmith</string>
+    <string name="welcome_cta">Start your build</string>
+    <string name="generate_ai_summary">Generate AI Summary</string>
+    <string name="generating_ai_summary">Summoning coach notes…</string>
+</resources>
