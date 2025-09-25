@@ -25,5 +25,6 @@ android {
 dependencies {
     implementation(libs.coroutines.core)
     implementation(libs.kotlinx.serialization.json)
+    implementation("javax.inject:javax.inject:1")
     testImplementation(kotlin("test"))
 }
